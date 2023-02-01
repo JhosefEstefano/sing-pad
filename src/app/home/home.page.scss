@@ -25,3 +25,9 @@
 #container a {
   text-decoration: none;
 }
+
+canvas {
+  display: block;
+  border: 1px dashed rgb(129, 129, 129);
+  background-color: rgb(187, 178, 178);
+}

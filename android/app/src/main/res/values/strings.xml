@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sing-pad</string>
+    <string name="title_activity_main">sing-pad</string>
+    <string name="package_name">app.kelpie.pruebas.sing</string>
+    <string name="custom_url_scheme">app.kelpie.pruebas.sing</string>
+</resources>
