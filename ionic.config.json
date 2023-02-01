@@ -1,0 +1,7 @@
+{
+  "name": "sing-pad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
